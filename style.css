@@ -112,3 +112,49 @@ p {
 }
 
 /* donation area end */
+
+/* Donation plan area start */
+
+.donation-plan-area {
+    padding: 50px 100px;
+}
+
+.donation-plan-area h2 {
+    text-align: center;
+}
+
+.donation-plan-area p {
+    text-align: center;
+}
+
+.donation-plan-items {
+    padding: 30px;
+}
+
+.plan-item {
+    margin: 0 20px;
+    padding: 30px;
+}
+
+.plan-item p {
+    text-align: left;
+
+}
+
+.plan-item img {
+    width: 15%;
+}
+
+#item-1 {
+    background-color: #EDF5F6;
+}
+
+#item-2 {
+    background-color: #FFEEEE;
+}
+
+#item-3 {
+    background-color: #FFF4D6;
+}
+
+/* Donation plan area end */
